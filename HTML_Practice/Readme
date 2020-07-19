@@ -1,8 +1,0 @@
-we have three ways to include the style to a html script using css. They are
-	1.Inline, where we can use style attribut to give some style to some text.
-	2.Internal, where we define about the style of the text in the head tag
-	3.External, Where we define the style of the text in a separate file and add a link to that css file in the head tag og html file.
-
-So, in this directory you can see a directory by name "CSS", this is used to save the css files in which the text style is defined and is linked to the html files which are in the current directory.
-
-I've names the css and html files with the same file name so that it is easy to find the correspondence between the html and css file.
